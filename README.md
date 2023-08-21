@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text] https://github.com/Benstamous/Benstamous/blob/main/artwork(1).png?raw=true
+![alt text] https://github.com/Benstamous/Benstamous/blob/main/artwork%20(1).png
 
 <!--
 **Benstamous/Benstamous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
